@@ -28,8 +28,8 @@ const Header = ({profile}) => {
           />
       </svg>
       <div id="header-logo-block">
-        <img id="DP-ring" />
-        <img id="DP" src="images/dp.jpg" />
+        <img id="DP-ring" alt="dp-border" />
+        <img id="DP" src="images/dp.jpg" alt="dp" />
       </div>
       <div className="header-block-strip" id="name-strip"> {profile.name}</div>
       <div className="header-block-strip" id="email-strip"><FontAwesomeIcon icon={faEnvelope} /> {profile.email}</div>
