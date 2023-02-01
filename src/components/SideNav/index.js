@@ -1,6 +1,6 @@
 import TabHead from './TabHead';
 
-const SideBar = ({ tabs }) => {
+const SideBar = ({ tabs, currentTab, onTabChange }) => {
   return (
     <div id="side-nav">
       <svg height="650" width="575" class="top-left">
@@ -10,8 +10,8 @@ const SideBar = ({ tabs }) => {
           stroke="#888888"
         />
       </svg>
-      {tabs.map((tab) => (
-        <TabHead label={tab.title} />
+      {tabs.map((tab, index) => (
+        <TabHead label={tab.title} onClick={()=>onTabChange(index)} selected={index===currentTab} />
       ))}
     </div>
   );
