@@ -1,0 +1,82 @@
+{
+  "name": "Rishav Saini",
+  "email": "rishav9880@yahoo.com",
+  "phone": "+91 9882033233",
+  "github": "aarstar65",
+  "tabs": [
+    {
+      "title": "Skills",
+      "cards": [
+        {
+          "type": "list",
+          "title": "Programming Languages",
+          "list": [
+            "C",
+            "C++",
+            "Java (Beginner)",
+            "Javascript (Primary Skill)",
+            "Python (Can make it work)"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Web Development",
+          "list": [
+            "HTML",
+            "CSS",
+            "JS",
+            "NodeJS",
+            "ReactJS",
+            "ExpressJS",
+            "LoopbackJS",
+            "Typescript",
+            "Prisma",
+            "GraphQL",
+            "PouchDB",
+            "React-Admin",
+            "Google's Firebase Cloud Messaging",
+            "Google's Youtube Data API v3",
+            "Wordpress",
+            "Wix",
+            "Webflow"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Mobile Development",
+          "list": [
+            "React Native (Major experience in iOS only)",
+            "Google Maps",
+            "Google's Firebase Cloud Messaging"
+          ]
+        },
+        {
+          "type": "list",
+          "title": "Web and Mobile Design Libraries/Frameworks",
+          "list": ["Bootstrap", "Material UI", "Ant Design", "Chakra UI"]
+        },
+        {
+            "type": "text",
+            "title": "Plus Skill",
+            "content": "Can fluently write Python and Javascript based scripts for heavy lifting non-development work during the development, like building up seeding data, converting data collections from one format to other."
+        }
+      ]
+    },
+    {
+        "title": "Experience",
+        "cards": []
+    },
+    {
+        "title": "Projects",
+        "cards": []
+    },
+    {
+        "title": "Technical Qualification",
+        "cards": []
+    },
+    {
+        "title": "Education",
+        "cards": []
+    }
+  ]
+}

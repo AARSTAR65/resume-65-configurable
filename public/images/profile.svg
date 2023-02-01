@@ -1,0 +1,44 @@
+<?xml version="1.0"?><svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 210 210" width="210" height="210">
+    <circle cx="105" cy="105" r="40" stroke="#FFFFFF" stroke-width="1" fill="none" />
+    <circle cx="105" cy="105" r="42" stroke="#888888" stroke-width="2" fill="none" />
+    <circle cx="105" cy="105" r="60" stroke="#999999" stroke-width="1" fill="none" />
+    <circle cx="105" cy="105" r="46" stroke="#555555" stroke-width="1" fill="none" />
+    <circle cx="105" cy="105" r="76" stroke="#666666" stroke-width="1" fill="none" />
+    <circle cx="105" cy="105" r="93" stroke="#666666" stroke-width="1" fill="none" />
+    <path d="
+        M 92, 133
+        m -25, 0
+        a 50,50 0 0,0 33,20
+      " fill="none" stroke="#555555" stroke-width="4" />
+    <path d="
+        M 114, 49
+        m -25, 0
+        a 60,60 0 0,0 -40,70
+      " fill="none" stroke="#999999" stroke-width="6" />
+      
+    <path d="
+        M 148, 162
+        m -25, 0
+        a 60,60 0 0,0 40,-70
+      " fill="none" stroke="#999999" stroke-width="4" />
+    <path d="
+        M 183, 48
+        m -25, 0
+        a 80,80 0 0,0 -40,-20
+      " fill="none" stroke="#999999" stroke-width="4" />
+      <path d="
+          M 58, 121
+          m -25, 0
+          a 76,76 0 0,0 40,50
+        " fill="none" stroke="#CCCCCC" stroke-width="4" />
+      <path d="
+          M 147, 203
+          m -25, 0
+          a 100,100 0 0,0 80,-120
+        " fill="none" stroke="#999999" stroke-width="4" />
+        <path d="
+          M 124, 14
+          m -25, 0
+          a 93,93 0 0,0 -80,120
+        " fill="none" stroke="#666666" stroke-width="6" />
+  </svg>
